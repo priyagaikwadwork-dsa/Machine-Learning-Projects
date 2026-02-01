@@ -1,4 +1,6 @@
-AI-Based Resume Screening System
+**AI-Based Resume Screening System**
+
+
 📌 Project Overview
 
 This project builds a data-driven resume screening system that helps recruiters shortlist candidates efficiently using data analytics and machine learning.
