@@ -116,6 +116,8 @@ Top candidates
 
 Hiring insights
 
+<img width="1329" height="772" alt="Dashboard" src="https://github.com/user-attachments/assets/54408008-0b0a-4864-aad8-770e73fcd9fd" />
+
 📊 Key Insights
 
 Candidates with Python, ML, and SQL skills have higher hire probability.
